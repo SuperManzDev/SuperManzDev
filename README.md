@@ -17,4 +17,8 @@ I'm currently working on my portfolio, where I showcase my coding skills and pro
 - My favorite programming language is Python 🐍.
 - I believe that curly braces belong on their own line (fight me! 😄).
 
-Feel free to connect with me on GitHub and explore my repositories. Let's build something cool together! 🚀
+ 
+
+## Non-School Account
+[@ManzOngits](https://github.com/ManzONgits)
+
