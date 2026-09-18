@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Manz, a 15-year-old gym rat who's passionate about fitness and coding. Here's a little bit about me:
+I'm Manz, a 17-year-old gym rat who's passionate about fitness and coding. Here's a little bit about me:
 
 - **Nickname:** Manz
 - **Pronouns:** He/Him
