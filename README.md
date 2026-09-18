@@ -1,24 +1,32 @@
-# Hi there! 👋
+<div align="center">
 
-I'm Manz, a 17-year-old gym rat who's passionate about fitness and coding. Here's a little bit about me:
+  # ⚡ Hey there, I'm Manas (Manz) 👋
 
-- **Nickname:** Manz
-- **Pronouns:** He/Him
-- **Interests:**
-  - Lifting weights 🏋️‍♂️
-  - Building awesome projects 💻
-  - Exploring new technologies 🌟
+  ### 🏋️‍♂️ Lifter • 💻 Systems & Embedded Builder • 🚀 Student Developer
 
-## What I'm Up To
-I'm currently working on my portfolio, where I showcase my coding skills and projects. Whether it's web development, game design, or machine learning, I'm always eager to learn and create.
+  <p align="center">
+    <a href="https://www.linkedin.com/in/manas-singh-56b464346/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/ManzONgits">
+      <img src="https://img.shields.io/badge/Alt_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Secondary GitHub" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=ManzONgits&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  </p>
 
-## Fun Facts
-- I can do more push-ups than lines of code (probably).
-- My favorite programming language is Python 🐍.
-- I believe that curly braces belong on their own line (fight me! 😄).
+  <p align="center">
+    <i>"Bench heavy, write clean code, and curly braces belong on their own line."</i> 😉
+  </p>
 
- 
+</div>
 
-## Non-School Account
-[@ManzOngits](https://github.com/ManzONgits)
+---
 
+### 🚀 About Me
+
+```yaml
+name: Manas Singh
+alias: Manz
+status: High School Senior & Tech Enthusiast
+focus: Embedded Systems, Linux / Virtualization, Systems Engineering
+lifting: Push-ups > Lines of Code (most days)
