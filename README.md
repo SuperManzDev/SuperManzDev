@@ -12,16 +12,9 @@ High school senior, CEO at SITS, and systems builder.
 
 ## Student Information Technology Services (SITS)
 
-I am the CEO of Student Information Technology Services at Canton High School (room CV 26, advised by Mr. Obsniuk). SITS takes decommissioned computers, repairs and upgrades them, and donates them to students and families who do not have a computer at home.
+I am the CEO of Student Information Technology Services at Canton High School (room CV 26, advised by Mr. Obsniuk). SITS takes decommissioned computers, fixes them up, and donates them to families who need them, with 126 computers donated so far.
 
-So far, our team has donated 126 complete computers.
-
-What I handle as CEO:
-- Intake and logistics: We take hardware drop-offs between 6:30 AM and 3:00 PM in room CV 26, cataloging incoming desktops, laptops, and parts.
-- Team organization: I assign student leads and technicians to diagnostics, teardowns, component testing, and upgrades.
-- Software setup: We wipe drives, install lightweight Linux systems, and bundle offline educational tools for students.
-- Quality checks and handoff: Every machine gets run through a hardware checklist before we pack it and hand it off to a family.
-- Supplies and funding: I manage our Donorbox account (cards, PayPal, Venmo) so we can buy SSDs, RAM, and cables when we run out of spare parts.
+My leadership focuses on delegation and workflow structure: leading and delegating responsibilities to student administrators, who oversee specialized teams of technicians through triage, hardware diagnostic benchmarking, and parts harvesting.
 
 SITS email: studentinfotechservices@gmail.com
 
