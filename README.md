@@ -1,94 +1,87 @@
-# ⚡ Manas Singh (Manz)
+# Manas Singh (Manz)
 
-> **Student Director @ SITS • Systems & Embedded Engineer • Automotive Telemetry • Open-Source Creator**
+High school senior, CEO at SITS, and systems builder.
 
-[![GitHub](https://img.shields.io/badge/GitHub-SuperManzDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuperManzDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-singh-56b464346/)
-[![Website](https://img.shields.io/badge/0pium.tech-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://0pium.tech)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manz.shh)
-[![XDA](https://img.shields.io/badge/XDA_Forums-F59714?style=for-the-badge&logo=xda-developers&logoColor=white)](https://xdaforums.com/m/manzpk.12370601/)
-
-*“Bridging the digital divide by day, architecting low-level firmware, embedded OS kernels, and automotive telemetry by night.”*
+[![GitHub](https://img.shields.io/badge/GitHub-SuperManzDev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SuperManzDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-singh-56b464346/)
+[![Website](https://img.shields.io/badge/0pium.tech-8A2BE2?style=flat-square&logo=firefox&logoColor=white)](https://0pium.tech)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/manz.shh)
+[![XDA](https://img.shields.io/badge/XDA_Forums-F59714?style=flat-square&logo=xda-developers&logoColor=white)](https://xdaforums.com/m/manzpk.12370601/)
 
 ---
 
-### 🏢 Executive Leadership — Student Information Technology Services (SITS)
+## Student Information Technology Services (SITS)
 
-> **Founder & Student Director / Operations Lead** • Canton High School (Room CV 26, advised by Mr. Obsniuk)  
-> *Non-profit initiative dedicated to closing the digital divide through end-to-end hardware refurbishment and community donation.*
+I am the CEO of Student Information Technology Services at Canton High School (room CV 26, advised by Mr. Obsniuk). SITS takes decommissioned computers, repairs and upgrades them, and donates them to students and families who do not have a computer at home.
 
-| 💻 **126+ Computers Donated** | 🛠️ **Full-Lifecycle Refurbishing** | 👥 **Student Tech Team Leadership** | 📦 **Donorbox & Supply Logistics** |
-| :---: | :---: | :---: | :---: |
+So far, our team has donated 126 complete computers.
 
-#### 🎯 What SITS Does & My Executive Scope:
-- **Intake & Logistics Management:** Directing intake operations for decommissioned enterprise hardware, PCs, and peripherals donated by the local community and corporate partners (operating out of Canton Room CV 26, 6:30 AM – 3:00 PM).
-- **Delegation & Workflow Leadership:** Leading and delegating responsibilities to student administrators, who oversee specialized teams of technicians through triage, hardware diagnostic benchmarking, and parts harvesting.
-- **Hardware Reconditioning & Open-Source OS Deployment:** Supervising component-level repairs, RAM/storage upgrades, thermal repasting, and standardizing clean deployments of custom lightweight open-source Linux distributions bundled with comprehensive educational software packages.
-- **Quality Assurance & Deployment:** Enforcing multi-point stress tests on every machine before distribution directly into the homes of children and families without computer access.
-- **Financial & Community Operations:** Managing SITS Donorbox fundraising campaigns (Credit/Debit, PayPal, Venmo) to finance critical replacement parts, specialized repair tools, and day-to-day laboratory operations.
+What I handle as CEO:
+- Intake and logistics: We take hardware drop-offs between 6:30 AM and 3:00 PM in room CV 26, cataloging incoming desktops, laptops, and parts.
+- Team organization: I assign student leads and technicians to diagnostics, teardowns, component testing, and upgrades.
+- Software setup: We wipe drives, install lightweight Linux systems, and bundle offline educational tools for students.
+- Quality checks and handoff: Every machine gets run through a hardware checklist before we pack it and hand it off to a family.
+- Supplies and funding: I manage our Donorbox account (cards, PayPal, Venmo) so we can buy SSDs, RAM, and cables when we run out of spare parts.
 
-📧 **SITS Inquiries:** `studentinfotechservices@gmail.com` • Canton High School Room CV 26
+SITS email: studentinfotechservices@gmail.com
 
 ---
 
-### 🚀 Featured Open-Source Projects
+## Projects
 
-A curated selection of the **17 open-source projects** actively maintained under [@SuperManzDev](https://github.com/SuperManzDev):
+Here are the main projects I build and maintain on GitHub (@SuperManzDev):
 
-#### 🕹️ Embedded Systems & Custom OS
-* [**ManzLiteOS**](https://github.com/SuperManzDev/ManzLiteOS) — Custom lightweight event-driven operating system for ESP32 on FreeRTOS. Features custom memory-efficient windowing, power modes, and bidirectional iOS Apple Notification Center Service (ANCS) over BLE.
-* [**manzcompression**](https://github.com/SuperManzDev/manzcompression) — High-throughput custom C++ compression & decompression utility engineered for resource-constrained embedded systems.
-* [**PC-Remote-Switch**](https://github.com/SuperManzDev/PC-Remote-Switch) — PlatformIO C++ embedded firmware on ESP32 enabling remote power on, hardware reset, and PWM vibration alerts over local Wi-Fi.
+### Embedded systems and OS
+- [**ManzLiteOS**](https://github.com/SuperManzDev/ManzLiteOS): A lightweight operating system for the ESP32 written in C++ on top of FreeRTOS. It includes a custom window manager, power-saving states, and connects to iPhones over BLE to read notifications through Apple's Notification Center Service (ANCS).
+- [**manzcompression**](https://github.com/SuperManzDev/manzcompression): A fast C++ compression and decompression tool written for low-memory microcontrollers.
+- [**PC-Remote-Switch**](https://github.com/SuperManzDev/PC-Remote-Switch): ESP32 firmware that connects to Wi-Fi so you can turn on a desktop, trigger a hard reset, or check status remotely.
 
-#### 🏎️ Automotive & Telemetry Engineering
-* [**CamryDash**](https://github.com/SuperManzDev/CamryDash) — Custom Android automotive digital cluster & Raspberry Pi RFCOMM Bluetooth OBD-II CAN bus bridge for Toyota Camry telemetry.
-* [**CarScreenShare**](https://github.com/SuperManzDev/CarScreenShare) — Ultra-low-latency desktop screen caster over local Wi-Fi designed specifically for Tesla and in-dash automotive browsers.
-* [**camry-idrive-simulator**](https://github.com/SuperManzDev/camry-idrive-simulator) — Interactive web-based automotive cluster & BMW iDrive rotary console controller simulator.
+### Automotive and telemetry
+- [**CamryDash**](https://github.com/SuperManzDev/CamryDash): An Android dashboard app paired with a Raspberry Pi over Bluetooth RFCOMM to pull real-time CAN bus telemetry from a Toyota Camry.
+- [**CarScreenShare**](https://github.com/SuperManzDev/CarScreenShare): A low-latency browser screen streamer built over local Wi-Fi, designed to cast a PC desktop directly onto in-car screens like a Tesla dashboard browser.
+- [**camry-idrive-simulator**](https://github.com/SuperManzDev/camry-idrive-simulator): A web simulator of a digital car cluster and BMW-style rotary controller.
 
-#### ⚡ Hardware Hacking & Reverse Engineering
-* [**VoltKit**](https://github.com/SuperManzDev/voltkit) — Python CLI/TUI hardware hacking & embedded systems development toolkit for rapid bench prototyping.
-* [**TI-GPT-Nspire**](https://github.com/SuperManzDev/TI-GPT-Nspire) — ChatGPT client running natively on Texas Instruments TI-Nspire CX CAS graphing calculators via Ndless C & USB serial proxy.
-* [**ePad-StreamDeck**](https://github.com/SuperManzDev/ePad-StreamDeck) — Hardware repurposing utility transforming legacy ePad electronic signature digitizers into custom macro pads via Windows COM APIs.
-* [**SpotifyLeanbackHook**](https://github.com/SuperManzDev/SpotifyLeanbackHook) — LSPosed / Xposed module forcing Spotify into Android TV Leanback UI on touch smart displays (Echo Show 8).
+### Hardware tools and mods
+- [**VoltKit**](https://github.com/SuperManzDev/voltkit): A Python CLI and terminal UI tool for hardware debugging and prototyping on the bench.
+- [**TI-GPT-Nspire**](https://github.com/SuperManzDev/TI-GPT-Nspire): A client that runs on a TI-Nspire CX CAS calculator using Ndless C, routing questions to an LLM through a USB serial proxy.
+- [**ePad-StreamDeck**](https://github.com/SuperManzDev/ePad-StreamDeck): Software that turns an old ePad signature tablet into a macro pad using Windows COM controls.
+- [**SpotifyLeanbackHook**](https://github.com/SuperManzDev/SpotifyLeanbackHook): An LSPosed module that forces Spotify into its Android TV layout on smart displays like the Echo Show 8.
 
-#### 🌐 Full-Stack, AI & Utilities
-* [**ManzAMP**](https://github.com/SuperManzDev/ManzAMP) — High-fidelity modern web music workstation & decentralized streaming player built with React, Vite, Web Audio API, and the Audius protocol.
-* [**OmniTrack**](https://github.com/SuperManzDev/OmniTrack) — Autonomous 24/7 delivery tracking daemon with AI parsing, multi-carrier scraping, and automated dispatch.
-* [**LaptopKBMControl**](https://github.com/SuperManzDev/LaptopKBMControl) — Zero-overhead C# peripheral manager toggling internal laptop keyboard/trackpad when external gaming peripherals connect.
-* [**discord-mcp**](https://github.com/SuperManzDev/discord-mcp) & [**telegram-mcp**](https://github.com/SuperManzDev/telegram-mcp) — Zero-dependency Node.js Model Context Protocol servers enabling AI agents to read and dispatch messages across Discord and Telegram.
-* [**nova-portal**](https://github.com/SuperManzDev/nova-portal) — Minimalist developer productivity dashboard with synchronized tasks and synthesized Pomodoro audio timers.
-* [**human-typer**](https://github.com/SuperManzDev/human-typer) — Stealth keystroke automation GUI with natural typing cadences and physical QWERTY adjacency typo emulation.
-
----
-
-### 🛠️ Core Technical Arsenal
-
-```text
-Languages:       C / C++, Python, C#, Java, TypeScript / JavaScript, Bash, PowerShell, SQL
-Embedded & IoT:  ESP32, FreeRTOS, Raspberry Pi, Arduino, CAN Bus, OBD-II, BLE (ANCS), I2C / SPI / UART
-Virtualization:  Proxmox VE (PVE), QEMU / KVM, LXC, Docker, WSL2, Linux (Arch, Debian, Ubuntu)
-Frontend & Web:  React, Vite, Node.js, Web Audio API, HTML5 Canvas, TailwindCSS
-AI & Protocols:  Model Context Protocol (MCP), Audius Protocol, Local LLMs (Ollama / vLLM), REST / WebSockets
-Hardware Tools:  Micro-soldering, Logic Analyzers, Oscilloscopes, Benchtop Power Supplies, Diagnostic Triage
-```
+### Web, AI, and desktop utilities
+- [**ManzAMP**](https://github.com/SuperManzDev/ManzAMP): A web audio player built with React, Vite, and the Web Audio API that streams music through the Audius protocol.
+- [**OmniTrack**](https://github.com/SuperManzDev/OmniTrack): A background daemon that watches package tracking numbers across carriers, parses status, and sends updates.
+- [**LaptopKBMControl**](https://github.com/SuperManzDev/LaptopKBMControl): A C# tray utility that turns off a laptop's built-in keyboard and trackpad whenever you plug in an external gaming keyboard and mouse.
+- [**discord-mcp**](https://github.com/SuperManzDev/discord-mcp) and [**telegram-mcp**](https://github.com/SuperManzDev/telegram-mcp): Node.js Model Context Protocol servers that let AI tools read and post messages in Discord channels and Telegram chats.
+- [**nova-portal**](https://github.com/SuperManzDev/nova-portal): A simple personal dashboard with task lists and a Pomodoro timer.
+- [**human-typer**](https://github.com/SuperManzDev/human-typer): A typing automation tool that types text with realistic key delays and natural typo behavior.
 
 ---
 
-### ⚙️ Hardware Arsenal & Lab Infrastructure
+## Tech stack
 
-* **Homelab Hypervisor:** Intel Core i9-13900K | 2x NVIDIA Quadro RTX 4000 | 128GB RAM | 48TB High-Speed ZFS Storage Array (Proxmox VE)
-* **Primary Workstation:** Intel Core i7-11800H | NVIDIA RTX 3060 | 32GB RAM | 4TB SSD
-* **Hackintosh Rig:** Intel Core i5-8250U | Intel UHD 620 | 32GB RAM | 2TB SSD
-* **Mobile Fleet:** Samsung Galaxy S25 Ultra (Temp-Root) • iPhone 16 Pro • Google Pixel 7 Pro (GrapheneOS + Root) • iPhone SE 1st Gen (Jailbroken iPod Mod)
-* **Audio Gear:** AirPods Max, Sony WH-1000XM4, Sonos Ace, Skullcandy Crusher Evo, High-Fidelity IEMs
+- Languages: C/C++, Python, C#, Java, TypeScript, JavaScript, Bash, PowerShell, SQL
+- Embedded & hardware: ESP32, FreeRTOS, Raspberry Pi, Arduino, CAN bus, OBD-II, BLE, I2C, SPI, UART
+- Linux & virtualization: Proxmox VE, QEMU/KVM, LXC, Docker, Arch, Debian, Ubuntu
+- Web: React, Vite, Node.js, Web Audio API, Tailwind CSS
+- Bench tools: Micro-soldering, logic analyzers, bench supplies, multimeters
 
 ---
 
-### 📬 Connect With Me
+## Hardware
 
-* 💼 **LinkedIn:** [manas-singh](https://www.linkedin.com/in/manas-singh-56b464346/)
-* 🌐 **Personal Website:** [0pium.tech](https://0pium.tech)
-* 📸 **Instagram:** [@manz.shh](https://www.instagram.com/manz.shh)
-* 🔧 **XDA Forums:** [manzpk](https://xdaforums.com/m/manzpk.12370601/)
-* 🏫 **School & SITS:** `studentinfotechservices@gmail.com` • `msingh458@pccsk12.com`
-* ✉️ **Direct Email:** `mnz@0puim.tech`
+- Main server: Intel Core i9-13900K, 2x NVIDIA Quadro RTX 4000, 128 GB RAM, 48 TB storage on Proxmox VE
+- Primary laptop: Intel Core i7-11800H, NVIDIA RTX 3060, 32 GB RAM, 4 TB SSD
+- Secondary rig: Intel Core i5-8250U Hackintosh, 32 GB RAM
+- Phones: Samsung Galaxy S25 Ultra (rooted), iPhone 16 Pro, Google Pixel 7 Pro (GrapheneOS), iPhone SE 1st gen (jailbroken)
+- Audio: AirPods Max, Sony WH-1000XM4, Sonos Ace, Skullcandy Crusher Evo
+
+---
+
+## Contact
+
+- LinkedIn: [manas-singh](https://www.linkedin.com/in/manas-singh-56b464346/)
+- Website: [0pium.tech](https://0pium.tech)
+- Instagram: [@manz.shh](https://www.instagram.com/manz.shh)
+- XDA: [manzpk](https://xdaforums.com/m/manzpk.12370601/)
+- Direct email: mnz@0puim.tech or msingh458@pccsk12.com
+- SITS: studentinfotechservices@gmail.com
